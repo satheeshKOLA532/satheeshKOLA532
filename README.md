@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satheeshKOLA532
-- 👀 I’m interested in dsa,competitive programming,sql
-- 🌱 I’m currently learning java language
+- 👀 I’m interested in dsa,sql,AI,ML
+- 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on linkedin
 - 📫 How to reach me linkedin.com/in/satheesh-kola-664a661b7
 
